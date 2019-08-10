@@ -20,3 +20,6 @@ other people to get these boards which probably are not able to solder them by t
 All documents are profided as-is. I have to check which lisence is the best suitable for the project.
 
 Regards, Roland
+
+
+(And a thanks to http://avitech.com.au for the Kicad FlipChip template)
