@@ -1,5 +1,6 @@
 # Digital_RX8E_M8357R
-This is a 74xx clone of the Digital RX8E M8357 RX01 / RX02 floppy controller. It's called the RX8E M8357R.
+This is a 74xx clone of the Digital RX8E M8357 RX01 / RX02 floppy controller
+for the DEC PDP8/E family computers. It's called the RX8E M8357R.
 
 There are no DEC or SP chips used. Only 74xx and 74HCTxx series chips.
 It passes the DIRXAC maindec and boots OS/8. In the upcoming weeks I want to do
