@@ -10,7 +10,6 @@ and in this way you can build as many boards as you want to have. If you want to
 boards and sell them on Ebay, you are more then welcome to do that. In this way you can help
 other people to get these boards which probably are not able to solder them by them self.
 
-All documents are profided as-is. I have to check which lisence is the best suitable for the project.
 
 Regards, Roland
 
